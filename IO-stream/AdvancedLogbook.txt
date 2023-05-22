@@ -1,0 +1,98 @@
+			╔═══════════════════════╗
+			║ Verloop van de ritten ║
+	 ╔══════╩═══════════════════════╩═══════╗
+	 ║				   00:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station A ► Station B ║
+	 ║ Tram 12 nr 2 │ Station D ► Station H ║
+	 ║ Tram 12 nr 3 │ Station J ► Station A ║
+	 ║ Tram 21 nr 4 │ Station A ► Station K ║
+	 ║ Tram 21 nr 5 │ Station D ► Station N ║
+	 ║ Tram 21 nr 6 │ Station J ► Station A ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   01:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station B ► Station C ║
+	 ║ Tram 12 nr 2 │ Station H ► Station J ║
+	 ║ Tram 12 nr 3 │ Station A ► Station D ║
+	 ║ Tram 21 nr 4 │ Station K ► Station L ║
+	 ║ Tram 21 nr 5 │ Station N ► Station H ║
+	 ║ Tram 21 nr 6 │ Station A ► Station D ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   02:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 2 │ Station J ► Station A ║
+	 ║ Tram 12 nr 3 │ Station D ► Station H ║
+	 ║ Tram 21 nr 5 │ Station H ► Station J ║
+	 ║ Tram 21 nr 6 │ Station D ► Station N ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   03:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station C ► Station D ║
+	 ║ Tram 12 nr 3 │ Station H ► Station J ║
+	 ║ Tram 21 nr 4 │ Station L ► Station D ║
+	 ║ Tram 21 nr 5 │ Station J ► Station A ║
+	 ║ Tram 21 nr 6 │ Station N ► Station H ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   04:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station D ► Station E ║
+	 ║ Tram 12 nr 2 │ Station A ► Station D ║
+	 ║ Tram 12 nr 3 │ Station J ► Station A ║
+	 ║ Tram 21 nr 4 │ Station D ► Station M ║
+	 ║ Tram 21 nr 5 │ Station A ► Station D ║
+	 ║ Tram 21 nr 6 │ Station H ► Station J ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   05:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station E ► Station F ║
+	 ║ Tram 12 nr 2 │ Station D ► Station H ║
+	 ║ Tram 12 nr 3 │ Station A ► Station D ║
+	 ║ Tram 21 nr 4 │ Station M ► Station N ║
+	 ║ Tram 21 nr 6 │ Station J ► Station A ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   06:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station F ► Station G ║	voertuig 1 valt in panne
+	 ║ Tram 12 nr 2 │ Station H ► Station J ║
+	 ║ Tram 12 nr 3 │ Station D ► Station H ║
+	 ║ Tram 21 nr 4 │ Station N ► Station H ║	voertuig 4 valt in panne
+	 ║ Tram 21 nr 5 │ Station D ► Station N ║
+	 ║ Tram 21 nr 6 │ Station A ► Station D ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   07:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 2 │ Station J ► Station A ║
+	 ║ Tram 12 nr 3 │ Station H ► Station J ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   08:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station G ► Station H ║
+	 ║ Tram 12 nr 2 │ Station A ► Station D ║	voertuig 2 valt in panne
+	 ║ Tram 12 nr 3 │ Station J ► Station A ║	voertuig 3 valt in panne
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   09:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station H ► Station I ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   10:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station I ► Station J ║
+	 ║ Tram 21 nr 4 │ Station H ► Station O ║
+	 ║ Tram 21 nr 5 │ Station N ► Station H ║
+	 ║ Tram 21 nr 6 │ Station D ► Station N ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   11:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 21 nr 4 │ Station O ► Station P ║
+	 ║ Tram 21 nr 5 │ Station H ► Station J ║	voertuig 5 valt in panne
+	 ║ Tram 21 nr 6 │ Station N ► Station H ║	voertuig 6 valt in panne
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   12:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   13:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 2 │ Station D ► Station H ║
+	 ║ Tram 12 nr 3 │ Station A ► Station D ║
+	 ╚══════════════╧═══════════════════════╝

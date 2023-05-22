@@ -1,0 +1,62 @@
+--== STATIONS ==--
+	= Metrostation A =
+		* Spoor 12:
+			-> Halte B
+			<- Halte F
+		* Spoor 21:
+			-> Metrostation D
+			<- Metrostation G
+
+	= Halte B =
+		* Spoor 12:
+			-> Halte C
+			<- Metrostation A
+
+	= Halte F =
+		* Spoor 21:
+			-> Metrostation G
+			<- Halte E
+
+	= Metrostation D =
+		* Spoor 12:
+			-> Metrostation A
+			<- Halte C
+		* Spoor 21:
+			-> Halte E
+			<- Metrostation A
+
+	= Metrostation G =
+		* Spoor 21:
+			-> Metrostation A
+			<- Halte F
+
+	= Halte C =
+		* Spoor 12:
+			-> Metrostation D
+			<- Halte B
+
+	= Halte E =
+		* Spoor 21:
+			-> Halte F
+			<- Metrostation D
+
+
+--== TRAMS ==--
+	Tram 12 nr 1
+		type: PCC
+		snelheid: 40
+		huidig station: D
+		reparatiekosten: 63 euro
+
+	Tram 21 nr 2
+		type: PCC
+		snelheid: 40
+		huidig station: D
+		reparatiekosten: 142 euro
+
+	Tram 21 nr 3
+		type: Stadslijner
+		snelheid: 70
+		huidig station: A
+		reparatiekosten: 188 euro
+

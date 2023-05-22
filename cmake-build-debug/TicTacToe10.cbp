@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TicTacToe10"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/L3g0g/Downloads/PSE/Metronet/gtest/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/L3g0g/Downloads/PSE/Metronet/gtest/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testing">
+				<Option output="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/testing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/L3g0g/Downloads/PSE/Metronet/gtest/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 testing"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testing/fast">
+				<Option output="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/testing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/L3g0g/Downloads/PSE/Metronet/gtest/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 testing/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/L3g0g/Downloads/PSE/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/DesignByContract.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Metronet.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Metronet.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/MetronetMain.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/MetronetOutput.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/MetronetOutput.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/MetronetParser.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/MetronetParser.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/MetronetSimulation.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/MetronetSimulation.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Spoor.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Spoor.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Station.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Station.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Tram.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/Tram.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/metronetTests.cpp">
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/tinyxml/tinystr.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/tinyxml/tinystr.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/tinyxml/tinyxml.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/tinyxml/tinyxml.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/tinyxml/tinyxmlerror.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/tinyxml/tinyxmlparser.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/L3g0g/Downloads/PSE/Metronet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

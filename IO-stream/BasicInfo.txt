@@ -1,0 +1,62 @@
+--== STATIONS ==--
+	-> Metrostation A
+		totale bezoeken: 5
+			-->Spoor 12: 1
+			-->Spoor 21: 4
+		bezettingsgraad: 45.4545%
+			-->Spoor 12: 9.09091%
+			-->Spoor 21: 36.3636%
+
+	-> Halte B
+		totale bezoeken: 2
+		bezettingsgraad: 18.1818%
+
+	-> Halte F
+		totale bezoeken: 1
+		bezettingsgraad: 9.09091%
+
+	-> Metrostation D
+		totale bezoeken: 6
+			-->Spoor 12: 2
+			-->Spoor 21: 4
+		bezettingsgraad: 45.4545%
+			-->Spoor 12: 18.1818%
+			-->Spoor 21: 36.3636%
+
+	-> Metrostation G
+		totale bezoeken: 4
+			-->Spoor 21: 4
+		bezettingsgraad: 36.3636%
+			-->Spoor 21: 36.3636%
+
+	-> Halte C
+		totale bezoeken: 2
+		bezettingsgraad: 18.1818%
+
+	-> Halte E
+		totale bezoeken: 1
+		bezettingsgraad: 9.09091%
+
+
+--== TRAMS ==--
+	--> Tram 1 op Lijn 12 :
+		type: 				PCC
+		snelheid: 			40 kmh
+		reparatiekosten: 	€ 63
+		defecten: 			3
+		status: 			niet in panne
+
+	--> Tram 2 op Lijn 21 :
+		type: 				PCC
+		snelheid: 			40 kmh
+		reparatiekosten: 	€ 142
+		defecten: 			0
+		status: 			niet in panne
+
+	--> Tram 3 op Lijn 21 :
+		type: 				Stadslijner
+		snelheid: 			70 kmh
+		reparatiekosten: 	€ 188
+		defecten: 			0
+		status: 			niet in panne
+

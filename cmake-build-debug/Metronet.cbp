@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Metronet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mamadou/CLionProjects/Metronet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/home/mamadou/CLionProjects/Metronet/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mamadou/CLionProjects/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mamadou/CLionProjects/Metronet/gtest/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/home/mamadou/CLionProjects/Metronet/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mamadou/CLionProjects/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mamadou/CLionProjects/Metronet/gtest/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testing">
+				<Option output="/home/mamadou/CLionProjects/Metronet/cmake-build-debug/testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mamadou/CLionProjects/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mamadou/CLionProjects/Metronet/gtest/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 testing"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testing/fast">
+				<Option output="/home/mamadou/CLionProjects/Metronet/cmake-build-debug/testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mamadou/CLionProjects/Metronet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mamadou/CLionProjects/Metronet/gtest/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 testing/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mamadou/CLionProjects/Metronet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mamadou/CLionProjects/Metronet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/mamadou/CLionProjects/Metronet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/DesignByContract.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Metronet.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Metronet.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/MetronetMain.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/MetronetOutput.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/MetronetOutput.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/MetronetParser.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/MetronetParser.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/MetronetSimulation.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/MetronetSimulation.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Spoor.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Spoor.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Station.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Station.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Tram.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/Tram.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/metronetTests.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/tinyxml/tinystr.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/tinyxml/tinystr.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/tinyxml/tinyxml.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/tinyxml/tinyxml.h">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/tinyxml/tinyxmlerror.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/tinyxml/tinyxmlparser.cpp">
+			<Option target="main"/>
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="/home/mamadou/CLionProjects/Metronet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,141 @@
+--== STATIONS ==--
+	= Metrostation A =
+		* Spoor 12:
+			-> Halte B
+			<- Metrostation J
+		* Spoor 21:
+			-> Halte K
+			<- Halte R
+
+	= Halte B =
+		* Spoor 12:
+			-> Halte C
+			<- Metrostation A
+
+	= Metrostation J =
+		* Spoor 12:
+			-> Metrostation A
+			<- Halte I
+		* Spoor 21:
+			-> Halte Q
+			<- Halte P
+
+	= Halte K =
+		* Spoor 21:
+			-> Halte L
+			<- Metrostation A
+
+	= Halte R =
+		* Spoor 21:
+			-> Metrostation A
+			<- Halte Q
+
+	= Halte C =
+		* Spoor 12:
+			-> Metrostation D
+			<- Halte B
+
+	= Metrostation D =
+		* Spoor 12:
+			-> Halte E
+			<- Halte C
+		* Spoor 21:
+			-> Halte M
+			<- Halte L
+
+	= Halte E =
+		* Spoor 12:
+			-> Halte F
+			<- Metrostation D
+
+	= Halte M =
+		* Spoor 21:
+			-> Metrostation N
+			<- Metrostation D
+
+	= Halte L =
+		* Spoor 21:
+			-> Metrostation D
+			<- Halte K
+
+	= Halte F =
+		* Spoor 12:
+			-> Halte G
+			<- Halte E
+
+	= Halte G =
+		* Spoor 12:
+			-> Metrostation H
+			<- Halte F
+
+	= Metrostation H =
+		* Spoor 12:
+			-> Halte I
+			<- Halte G
+		* Spoor 21:
+			-> Halte O
+			<- Metrostation N
+
+	= Halte I =
+		* Spoor 12:
+			-> Metrostation J
+			<- Metrostation H
+
+	= Halte O =
+		* Spoor 21:
+			-> Halte P
+			<- Metrostation H
+
+	= Metrostation N =
+		* Spoor 21:
+			-> Metrostation H
+			<- Halte M
+
+	= Halte Q =
+		* Spoor 21:
+			-> Halte R
+			<- Metrostation J
+
+	= Halte P =
+		* Spoor 21:
+			-> Metrostation J
+			<- Halte O
+
+
+--== TRAMS ==--
+	Tram 12 nr 1
+		type: PCC
+		snelheid: 40
+		huidig station: J
+		reparatiekosten: 346 euro
+
+	Tram 12 nr 2
+		type: Albatros
+		snelheid: 70
+		huidig station: H
+		reparatiekosten: 596 euro
+
+	Tram 12 nr 3
+		type: Stadslijner
+		snelheid: 70
+		huidig station: D
+		reparatiekosten: 1534 euro
+
+	Tram 21 nr 4
+		type: PCC
+		snelheid: 40
+		huidig station: P
+		reparatiekosten: 259 euro
+
+	Tram 21 nr 5
+		type: Albatros
+		snelheid: 70
+		huidig station: J
+		reparatiekosten: 692 euro
+
+	Tram 21 nr 6
+		type: Stadslijner
+		snelheid: 70
+		huidig station: H
+		reparatiekosten: 1045 euro
+

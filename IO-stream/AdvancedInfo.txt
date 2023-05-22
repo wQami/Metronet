@@ -1,0 +1,135 @@
+--== STATIONS ==--
+	-> Metrostation A
+		totale bezoeken: 8
+			-->Spoor 12: 5
+			-->Spoor 21: 3
+		bezettingsgraad: 50%
+			-->Spoor 12: 35.7143%
+			-->Spoor 21: 21.4286%
+
+	-> Halte B
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Metrostation J
+		totale bezoeken: 8
+			-->Spoor 12: 5
+			-->Spoor 21: 3
+		bezettingsgraad: 57.1429%
+			-->Spoor 12: 35.7143%
+			-->Spoor 21: 21.4286%
+
+	-> Halte K
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Halte R
+		totale bezoeken: 0
+		bezettingsgraad: 0%
+
+	-> Halte C
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Metrostation D
+		totale bezoeken: 10
+			-->Spoor 12: 6
+			-->Spoor 21: 4
+		bezettingsgraad: 50%
+			-->Spoor 12: 42.8571%
+			-->Spoor 21: 28.5714%
+
+	-> Halte E
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Halte M
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Halte L
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Halte F
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Halte G
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Metrostation H
+		totale bezoeken: 11
+			-->Spoor 12: 6
+			-->Spoor 21: 5
+		bezettingsgraad: 71.4286%
+			-->Spoor 12: 42.8571%
+			-->Spoor 21: 35.7143%
+
+	-> Halte I
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Halte O
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+	-> Metrostation N
+		totale bezoeken: 5
+			-->Spoor 21: 5
+		bezettingsgraad: 35.7143%
+			-->Spoor 21: 35.7143%
+
+	-> Halte Q
+		totale bezoeken: 0
+		bezettingsgraad: 0%
+
+	-> Halte P
+		totale bezoeken: 1
+		bezettingsgraad: 7.14286%
+
+
+--== TRAMS ==--
+	--> Tram 1 op Lijn 12 :
+		type: 				PCC
+		snelheid: 			40 kmh
+		reparatiekosten: 	€ 346
+		defecten: 			3
+		status: 			niet in panne
+
+	--> Tram 2 op Lijn 12 :
+		type: 				Albatros
+		snelheid: 			70 kmh
+		reparatiekosten: 	€ 596
+		defecten: 			1
+		status: 			niet in panne
+
+	--> Tram 3 op Lijn 12 :
+		type: 				Stadslijner
+		snelheid: 			70 kmh
+		reparatiekosten: 	€ 1534
+		defecten: 			1
+		status: 			niet in panne
+
+	--> Tram 4 op Lijn 21 :
+		type: 				PCC
+		snelheid: 			40 kmh
+		reparatiekosten: 	€ 259
+		defecten: 			2
+		status: 			niet in panne
+
+	--> Tram 5 op Lijn 21 :
+		type: 				Albatros
+		snelheid: 			70 kmh
+		reparatiekosten: 	€ 692
+		defecten: 			0
+		status: 			niet in panne
+
+	--> Tram 6 op Lijn 21 :
+		type: 				Stadslijner
+		snelheid: 			70 kmh
+		reparatiekosten: 	€ 1045
+		defecten: 			0
+		status: 			niet in panne
+

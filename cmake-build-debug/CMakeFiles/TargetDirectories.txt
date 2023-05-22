@@ -1,0 +1,4 @@
+/home/mamadou/CLionProjects/Metronet/cmake-build-debug/CMakeFiles/main.dir
+/home/mamadou/CLionProjects/Metronet/cmake-build-debug/CMakeFiles/testing.dir
+/home/mamadou/CLionProjects/Metronet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mamadou/CLionProjects/Metronet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

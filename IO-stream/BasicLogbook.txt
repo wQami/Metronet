@@ -1,0 +1,57 @@
+			╔═══════════════════════╗
+			║ Verloop van de ritten ║
+	 ╔══════╩═══════════════════════╩═══════╗
+	 ║				   00:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station A ► Station B ║
+	 ║ Tram 21 nr 3 │ Station D ► Station G ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   01:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station B ► Station C ║
+	 ║ Tram 21 nr 2 │ Station A ► Station D ║
+	 ║ Tram 21 nr 3 │ Station G ► Station A ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   02:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station C ► Station D ║
+	 ║ Tram 21 nr 2 │ Station D ► Station E ║
+	 ║ Tram 21 nr 3 │ Station A ► Station D ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   03:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station D ► Station A ║	voertuig 1 valt in panne
+	 ║ Tram 21 nr 2 │ Station E ► Station F ║	voertuig 2 valt in panne
+	 ║ Tram 21 nr 3 │ Station D ► Station G ║	voertuig 3 valt in panne
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   04:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   05:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 21 nr 3 │ Station G ► Station A ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   06:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 21 nr 2 │ Station F ► Station G ║
+	 ║ Tram 21 nr 3 │ Station A ► Station D ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   07:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 21 nr 2 │ Station G ► Station A ║
+	 ║ Tram 21 nr 3 │ Station D ► Station G ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   08:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station A ► Station B ║
+	 ║ Tram 21 nr 2 │ Station A ► Station D ║	voertuig 2 valt in panne
+	 ║ Tram 21 nr 3 │ Station G ► Station A ║	voertuig 3 valt in panne
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   09:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station B ► Station C ║
+	 ╠══════════════╧═══════════════════════╣
+	 ║				   10:00				║
+	 ╠══════════════╤═══════════════════════╣
+	 ║ Tram 12 nr 1 │ Station C ► Station D ║
+	 ╚══════════════╧═══════════════════════╝

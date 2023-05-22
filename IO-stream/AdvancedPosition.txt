@@ -1,0 +1,11 @@
+
+		╔═══════════════════════════════╗
+		║		Huidige posities		║
+	╔═══╩══════════════╤════════════════╩═══╗
+	║	Tram 12 nr 1   │     Station J      ║
+	║	Tram 12 nr 2   │     Station H      ║
+	║	Tram 12 nr 3   │     Station D      ║
+	║	Tram 21 nr 4   │     Station P      ║
+	║	Tram 21 nr 5   │     Station J      ║
+	║	Tram 21 nr 6   │     Station H      ║
+	╚══════════════════╧════════════════════╝
